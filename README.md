@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Mathieu, i'm 34 years old.
+ 
+- 🌱 I’m currently learning Data Science
+
+- 📫 How to reach me: mathieu.mignaton@gmail.com
+
+
 <!--
 **Mignat90/Mignat90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
